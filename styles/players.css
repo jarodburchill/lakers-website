@@ -1,0 +1,23 @@
+section, #right_aside {
+	font-size: 125%;
+}
+
+section h1, #right_aside h1 {
+	font-size: 180%;
+	color: #FDBB22;
+	text-shadow: -1px 0 #330F57, 0 1px #330F57, 1px 0 #330F57, 0 -1px #330F57;
+}
+
+section img {
+	padding-right: 0.5em;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+	float: left;
+}
+#right_aside p{
+	color: #330F57;
+}
+
+#nav_list{
+	margin-top: 70px;
+}

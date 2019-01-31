@@ -1,0 +1,21 @@
+section, #right_aside {
+	font-size: 125%;
+}
+
+section h1, #right_aside h1 {
+	font-size: 180%;
+	color: #FDBB22;
+	text-shadow: -1px 0 #330F57, 0 1px #330F57, 1px 0 #330F57, 0 -1px #330F57;
+}
+video {
+	width: 480px;
+	height: 270px;
+	padding-bottom: 1em;
+}
+#right_aside p{
+	color: #330F57;
+}
+
+#nav_list{
+	margin-top: 70px;
+}

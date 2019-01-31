@@ -1,0 +1,34 @@
+section, #right_aside {
+	font-size: 125%;
+}
+
+section h1, #right_aside h1 {
+	font-size: 180%;
+	color: #FDBB22;
+	text-shadow: -1px 0 #330F57, 0 1px #330F57, 1px 0 #330F57, 0 -1px #330F57;
+}
+
+#right_aside p{
+	color: #330F57;
+}
+
+#nav_list{
+	margin-top: 70px;
+}
+
+thead, tfoot {
+	background-color: #FDBB22;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table {
+	width: 500px;
+}
+tr {
+	height: 50px;
+}
+td {
+	text-align: center;
+}
