@@ -1,2 +1,2 @@
 # Lakers Website
-GitHub Pages: https://jarodburchill.github.io/LakersWebsite/
+GitHub Pages: https://jarodburchill.github.io/lakers-website/
